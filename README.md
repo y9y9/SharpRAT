@@ -1,4 +1,4 @@
-# SharpRAT - Advanced Remote Administration Framework (Academic Research)
+# SharpRAT - Advanced Remote Adminitration Trojan (Academic Research)
 
 ⚠️ **Ethical Disclaimer**  
 *This project is strictly for academic research in cybersecurity and defensive mechanism development. Unauthorized use for malicious purposes violates ethical guidelines and legal statutes. Researchers must obtain proper authorization before deployment.*
